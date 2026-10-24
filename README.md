@@ -61,7 +61,7 @@ O projeto pratica a parametrização de requisições com CSV e a configuração
 - Validação inicial com carga reduzida antes de executar a configuração completa.
 - Registro dos resultados em arquivo JTL para análise posterior.
 
-## Aprendizados
+## 📚 Aprendizados
 
 Esta atividade permitiu praticar a configuração de um plano de teste de performance no Apache JMeter, incluindo requisições HTTP, dados parametrizados por CSV e definição de usuários virtuais, ramp-up e duração. Também reforçou a importância de validar o ambiente e analisar métricas como tempo de resposta, taxa de erro e throughput, sem presumir resultados antes da execução.
 
@@ -71,6 +71,6 @@ A configuração de carga não representa, por si só, um resultado de performan
 
 ---
 
-## Formação
+## 🎓 Formação
 
 Atividade desenvolvida durante a formação profissionalizante em **Quality Assurance (QA) pela EBAC — Escola Britânica de Artes Criativas e Tecnologia**.
